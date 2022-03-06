@@ -1,14 +1,16 @@
 # transformer-from-scratch
 Implementation of Attention Is All You Need (https://arxiv.org/abs/1706.03762)
 
+Literature Survey papers:
+1) [Arvind, Srikanth] A Survey of Deep Learning Techniques for Neural Machine Translation (https://arxiv.org/pdf/2002.07526.pdf)
+2) [Sanyog] Neural Machine Translation by Jointly Learning to Align and Translate (https://arxiv.org/abs/1409.0473)
+3) [Sasi Deep] Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (https://arxiv.org/abs/1406.1078)
+4) [Deevanshu] A Structured Self-attentive Sentence Embedding (https://arxiv.org/abs/1703.03130)
+
 Potential Literature Survey papers:
-1) A Survey of Deep Learning Techniques for Neural Machine Translation (https://arxiv.org/pdf/2002.07526.pdf)
-2) Neural Machine Translation by Jointly Learning to Align and Translate (https://arxiv.org/abs/1409.0473)
+1) Layer Normalization (https://arxiv.org/abs/1607.06450)
+2) Long Short-Term Memory-Networks for Machine Reading (https://arxiv.org/abs/1601.06733)
 3) Sequence to Sequence Learning with Neural Networks (https://arxiv.org/abs/1409.3215)
-4) Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (https://arxiv.org/abs/1406.1078)
-5) Long Short-Term Memory-Networks for Machine Reading (https://arxiv.org/abs/1601.06733)
-6) A Structured Self-attentive Sentence Embedding (https://arxiv.org/abs/1703.03130)
-7) Layer Normalization (https://arxiv.org/abs/1607.06450)
 
 Other papers:
 1) Findings of the 2021 Conference on Machine Translation (WMT21) (https://aclanthology.org/2021.wmt-1.1.pdf)
