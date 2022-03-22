@@ -7,10 +7,13 @@ Literature Survey papers:
 3) [Sasi Deep] Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (https://arxiv.org/abs/1406.1078)
 4) [Deevanshu] A Structured Self-attentive Sentence Embedding (https://arxiv.org/abs/1703.03130)
 
+Further Literature Survey papers:
+1) [Deevanshu] Sequence to Sequence Learning with Neural Networks (https://arxiv.org/abs/1409.3215)
+
 Potential Literature Survey papers:
 1) Layer Normalization (https://arxiv.org/abs/1607.06450)
 2) Long Short-Term Memory-Networks for Machine Reading (https://arxiv.org/abs/1601.06733)
-3) Sequence to Sequence Learning with Neural Networks (https://arxiv.org/abs/1409.3215)
+
 
 Other papers:
 1) Findings of the 2021 Conference on Machine Translation (WMT21) (https://aclanthology.org/2021.wmt-1.1.pdf)
