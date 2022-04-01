@@ -1,25 +1,17 @@
 # transformer-from-scratch
 Implementation of Attention Is All You Need (https://arxiv.org/abs/1706.03762)
 
+Contributors:
+1) Sanyog Sharma - AI21MTECH12003
+2) Arvind Roshaan - AI21MTECH12004
+3) Billakurthi Shai Sasi Deep - SM21MTECH12006
+4) HN Srikanth - SM21MTECH12012
+5) Deevanshu Gupta - SM21MTECH12014
+
 Literature Survey papers:
-1) [Arvind, Srikanth] A Survey of Deep Learning Techniques for Neural Machine Translation (https://arxiv.org/pdf/2002.07526.pdf)
-2) [Sanyog] Neural Machine Translation by Jointly Learning to Align and Translate (https://arxiv.org/abs/1409.0473)
-3) [Sasi Deep] Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (https://arxiv.org/abs/1406.1078)
-4) [Deevanshu] A Structured Self-attentive Sentence Embedding (https://arxiv.org/abs/1703.03130)
-
-Further Literature Survey papers:
-1) [Deevanshu] Sequence to Sequence Learning with Neural Networks (https://arxiv.org/abs/1409.3215)
-
-Potential Literature Survey papers:
-1) Layer Normalization (https://arxiv.org/abs/1607.06450)
-2) Long Short-Term Memory-Networks for Machine Reading (https://arxiv.org/abs/1601.06733)
-
-
-Other papers:
-1) Findings of the 2021 Conference on Machine Translation (WMT21) (https://aclanthology.org/2021.wmt-1.1.pdf)
-2) Neural Machine Translation of Rare Words with Subword Units (https://arxiv.org/abs/1508.07909)
-3) Literature Survey: Neural Machine Translation (https://www.cfilt.iitb.ac.in/resources/surveys/NMT-survey-paper.pdf)
-4) The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation (https://arxiv.org/abs/1804.09849)
-6) A Survey of Multilingual Neural Machine Translation (https://dl.acm.org/doi/pdf/10.1145/3406095)
-7) Survey: Machine Translation for Indian Language (https://www.ripublication.com/ijaer18/ijaerv13n1_29.pdf)
-8) Beyond English-Centric Multilingual Machine Translation (https://www.jmlr.org/papers/volume22/20-1307/20-1307.pdf)
+1) Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (https://arxiv.org/abs/1406.1078) by Billakurthi Shai Sasi Deep
+2) Neural Machine Translation by Jointly Learning to Align and Translate (https://arxiv.org/abs/1409.0473) by Sanyog Sharma
+3) A Structured Self-attentive Sentence Embedding (https://arxiv.org/abs/1703.03130) by Deevanshu Gupta
+4) Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation (https://arxiv.org/abs/1609.08144) by Billakurthi Shai Sasi Deep
+5) Massive Exploration of Neural Machine Translation Architectures (https://arxiv.org/abs/1703.03906) by Billakurthi Shai Sasi Deep
+6) Sequence to Sequence Learning with Neural Networks (https://arxiv.org/abs/1409.3215) by Deevanshu Gupta
