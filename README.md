@@ -1,5 +1,5 @@
 # transformer-from-scratch
-Implementation of Attention Is All You Need (https://arxiv.org/abs/1706.03762)
+Implementation of Transformer architecture proposed in the Attention Is All You Need (https://arxiv.org/abs/1706.03762) paper
 
 Contributors:
 1) Sanyog Sharma - AI21MTECH12003
