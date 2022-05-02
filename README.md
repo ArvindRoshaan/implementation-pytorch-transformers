@@ -15,3 +15,9 @@ Literature Survey papers:
 4) Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation (https://arxiv.org/abs/1609.08144) by Billakurthi Shai Sasi Deep
 5) Massive Exploration of Neural Machine Translation Architectures (https://arxiv.org/abs/1703.03906) by Billakurthi Shai Sasi Deep
 6) Sequence to Sequence Learning with Neural Networks (https://arxiv.org/abs/1409.3215) by Deevanshu Gupta
+7) Attention is all you need by (https://arxiv.org/abs/1706.03762) Srikanth
+
+Results Replicated from Literature: done by Sanyog and Srikanth
+
+Code Implemenation from Scratch: By Arvind Roshaan
+
