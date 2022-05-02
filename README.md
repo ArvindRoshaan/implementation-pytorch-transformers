@@ -20,4 +20,5 @@ Literature Survey papers:
 Results Replicated using existing Transformer code from FairSeq: By Sanyog and Srikanth
 
 Code Implemenation of Transformer using Pytorch build blocks: By Arvind Roshaan
+Data used to train our implementation of Transformer is a sequence of numbers in [1, vocab_size] and we try to learn identity mapping between source and target sequence
 
